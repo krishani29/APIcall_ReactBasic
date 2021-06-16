@@ -1,0 +1,45 @@
+
+
+.click{
+    width: 10rem;
+    height: 3rem;
+    background-color: skyblue;
+    text-align: center;
+    padding: 1rem;
+    font-weight: bold;
+    border-radius: 0.2rem;
+    color: red;
+    cursor: pointer;
+}
+.showdiv {
+  width: 60rem;
+  background: whitesmoke;
+  height: 20rem;
+  line-height: 3rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+.detail-side {
+  /* background: pink; */
+  width: 32rem;
+  border-right: 2px solid gray;
+  list-style: none;
+}
+.detail-side li:hover {
+  background: lightgray;
+  cursor: pointer;
+}
+.side-list-data {
+  position: relative;
+  background: pink;
+  width: 25rem;
+  height: 10rem;
+  left: 34rem;
+  bottom: 18rem;
+  padding: 1rem;
+}
+.d2{
+  list-style: none;
+  line-height: 2rem;
+  
+}
